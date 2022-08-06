@@ -9,6 +9,15 @@ module.exports = {
 				'dark-blue': 'hsl(235, 16%, 14%)',
 				'very-dark-blue': 'hsl(234, 17%, 12%)',
 			},
+			animation: {
+				flip: 'flip 1s linear',
+			},
+			keyframes: {
+				flip: {
+					'0%': { },
+					'100%': { transform: 'scaleY(-1)', transformOrigin: 'bottom center' },
+				},
+			},
 		},
 	},
 	plugins: [],

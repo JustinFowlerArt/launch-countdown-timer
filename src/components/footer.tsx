@@ -7,9 +7,9 @@ export const Footer = () => {
 			}}
 		>
 			<div className='flex space-x-10 absolute bottom-16'>
-				<img src='./images/icon-facebook.svg' className='h-8 w-8'></img>
-				<img src='./images/icon-pinterest.svg' className='h-8 w-8'></img>
-				<img src='./images/icon-instagram.svg' className='h-8 w-8'></img>
+				<a href='#'><img src='./images/icon-facebook.svg' className='h-8 w-8 hover:icon-red'></img></a>
+				<a href='#'><img src='./images/icon-pinterest.svg' className='h-8 w-8 hover:icon-red'></img></a>
+				<a href='#'><img src='./images/icon-instagram.svg' className='h-8 w-8 hover:icon-red'></img></a>
 			</div>
 		</footer>
 	);
