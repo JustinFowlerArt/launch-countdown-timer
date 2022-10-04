@@ -4,7 +4,7 @@ import { Footer } from './components/footer';
 
 export const App = () => {
 	const [now, setNow] = useState(new Date());
-	const launchDate = new Date(2022, 7, 25, 0, 0, 0);
+	const launchDate = new Date(2022, 9, 7, 0, 0, 0);
 
 	useEffect(() => {
 		const initializer = setInterval(() => {
