@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 - Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/launch-countdown-timer-with-react-and-tailwind-15yDSgaz-1)
-- Live Site URL: [Live Site URL](https://jfa-launch-countdown-timer.netlify.app/)
+- Live Site URL: [Live Site URL](https://launch-countdown-timer.justinfowlerart.com/)
 
 ## My process
 
