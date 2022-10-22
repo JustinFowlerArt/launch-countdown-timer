@@ -16,7 +16,7 @@ export const App = () => {
 	}, [now]);
 
 	return (
-		<div
+		<main role='main'
 			className='flex flex-col items-center h-screen pt-40 bg-dark-blue'
 			style={{
 				backgroundImage: 'url(./images/bg-stars.svg)',
@@ -27,6 +27,6 @@ export const App = () => {
 			</h1>
 			<CountdownTimer now={now} launchDate={launchDate} />
 			<Footer />
-		</div>
+		</main>
 	);
 };

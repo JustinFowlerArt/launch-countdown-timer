@@ -7,6 +7,7 @@ This is a solution to the [Launch countdown timer challenge on Frontend Mentor](
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -27,6 +28,10 @@ Users should be able to:
 
 ![](./design/final-mobile.png)
 ![](./design/final-desktop.png)
+
+### Links
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/launch-countdown-timer-with-react-and-tailwind-15yDSgaz-1)
+- Live Site URL: [Live Site URL](https://jfa-launch-countdown-timer.netlify.app/)
 
 ## My process
 
