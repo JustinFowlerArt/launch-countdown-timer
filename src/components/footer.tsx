@@ -1,6 +1,6 @@
 export const Footer = () => {
 	return (
-		<footer role='contentinfo'
+		<footer
 			className='absolute bottom-0 flex z-10 w-full h-1/4 items-center justify-center bg-cover bg-right'
 			style={{
 				backgroundImage: 'url(./images/pattern-hills.svg)',
